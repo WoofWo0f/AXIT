@@ -1,0 +1,31 @@
+.socialmedia {
+  margin-top: 0;
+  background: #f8efef;
+}
+.socialmedia__content {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+}
+.socialmedia__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.socialmedia__title {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #333333;
+}
+.socialmedia__description {
+  font-size: 18px;
+  line-height: 21px;
+  color: #86878b;
+}
+.socialmedia__links {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
