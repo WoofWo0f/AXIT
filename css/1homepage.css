@@ -186,6 +186,7 @@
     width: 100%;
   }
   .homepage__content-info {
+    margin: auto;
     height: 100vh;
   }
 }
