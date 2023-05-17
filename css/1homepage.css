@@ -185,4 +185,7 @@
   .homepage__button {
     width: 100%;
   }
+  .homepage__content-info {
+    height: 100vh;
+  }
 }
